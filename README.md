@@ -30,7 +30,7 @@ Partes principales de un documento HTML
 
 Ventajas de HTML
 
-Es fácil de aprender y usar.
+Es fácil de aprender y usar.ñ
 
 Es el estándar mundial para páginas web.
 
