@@ -1,5 +1,6 @@
 HTML
 ¿Qué es
+
 HTML es el Lenguaje de Marcado de Hipertexto, utilizado para crear y estructurar páginas web. No es un lenguaje de programación, sino un lenguaje de marcado porque se basa en etiquetas que indican la función del contenido.
 
 Características principales
