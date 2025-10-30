@@ -8,6 +8,7 @@ Características principales
 +
 Define la estructura básica de una página web.
 
+
 Utiliza etiquetas (tags) que van entre los símbolos < >.
 
 
