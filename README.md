@@ -5,6 +5,7 @@ HTML es el Lenguaje de Marcado de Hipertexto, utilizado para crear y estructurar
 
 Características principales
 
+
 Define la estructura básica de una página web.
 
 Utiliza etiquetas (tags) que van entre los símbolos < >.
